@@ -15,3 +15,14 @@ Se recomienda crear una organiación que sea la propietaria del repositorio prin
 ## Creación del Fork
 
 Para crear un forl debes iniciar seción en Github y luego ingresar a la landing page del proyecto del que quieras sacar tu Fork.
+
+## Como trabajar con 2 más remotos
+
+Listar remotos
+`git remote -v`
+
+Agregar remotos
+`git remote <name_remote> <url_repositorio>`
+
+Eliminar remotos
+`git remote remove <name_remote>`
