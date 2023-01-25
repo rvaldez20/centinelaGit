@@ -27,4 +27,10 @@ Agregar remotos
 Eliminar remotos
 `git remote remove <name_remote>`
 
+## Creando etiquetas
+
+Es necesario entender las etiquetas (oreleases) sólo deben ser creadas a partir de la rama main o master como buena práctica.
+
+Para entenderlo te recomendamos el siguiente articulo del blog: https://ed.team/comunidad/como-se-deciden-las-versiones-de-software
+
 #### Gracias por contribuir
