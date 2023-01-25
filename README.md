@@ -33,3 +33,6 @@ Es necesario entender que las etiquetas o releases solo deben ser creadas a part
 
 Para entender como llamar o categorizar a tus versiones te recomendamos un articulo en nuestro blog
 : https://ed.team/comunidad/como-se-deciden-las-versiones-de-software
+
+#### Gracias por contribuir
+
