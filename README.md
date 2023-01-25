@@ -26,3 +26,5 @@ Agregar remotos
 
 Eliminar remotos
 `git remote remove <name_remote>`
+
+#### Gracias por contribuir
