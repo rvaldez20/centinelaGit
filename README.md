@@ -26,3 +26,10 @@ Agregar remotos
 
 Eliminar remotos
 `git remote remove <name_remote>`
+
+## Creando etiquetas
+
+Es necesario entender que las etiquetas o releases solo deben ser creadas a partir de la rama main o master como buena práctica.
+
+Para entender como llamar o categorizar a tus versiones te recomendamos un articulo en nuestro blog
+: https://ed.team/comunidad/como-se-deciden-las-versiones-de-software
